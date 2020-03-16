@@ -4,6 +4,8 @@ title: Function Documentation
 permalink: /function-documentation/
 ---
 
+This document describes the built-in facilities for browsing function documentation offered by each of the implementations discussed in the book.
+
 ## BaseX
 
 All BaseX functions are documented on the BaseX [Module Library](http://docs.basex.org/wiki/Module_Library) page. The BaseX GUI does not expose function documentation. 

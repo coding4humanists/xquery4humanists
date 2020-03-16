@@ -9,7 +9,7 @@ layout: home
 
 ## Welcome!
 
-Welcome to the companion website for _XQuery for Humanists_, written by Clifford B. Anderson and Joseph C. Wicentowski and published by Texas A&M University Press in 2020 (available for purchase from [Amazon](https://www.amazon.com/dp/1623498295) and [Texas A&M University Press](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/). This website offers supplementary material from the book:
+Welcome to the companion website for _XQuery for Humanists_, written by Clifford B. Anderson and Joseph C. Wicentowski and published by Texas A&M University Press in 2020 (available for purchase from [Amazon](https://www.amazon.com/dp/1623498295) and [Texas A&M University Press](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/)). This website offers supplementary material from the book:
 
 - A downloadable set of [the code](code/) listed in this book
 - Extensive information about the four [XQuery implementations](implementations/) discussed in the book, including each their built-in facilities for browsing [function documentation](function-documentation/).
