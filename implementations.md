@@ -5,9 +5,17 @@ permalink: /implementations/
 category: top-level
 ---
 
-This document compares the implementations discussed in the book. It also contains implementation-specific issues about each chapter.
+This document discusses the four XQuery implementations discussed in the book: [BaseX](#basex), [eXist](#exist), [Saxon](#saxon), and [oXygen XML Editor](#oxygen-xml-editor). It lists key links, describes support for the XQuery specifications, and provides chapter-specific notes.
 
 ## BaseX
+
+### BaseX links
+
+- Homepage: [http://basex.org](http://basex.org)
+- Documentation: [http://docs.basex.org/wiki/Main_Page](http://docs.basex.org/wiki/Main_Page)
+- Source code: [https://github.com/basexdb/basex](https://github.com/basexdb/basex)
+- Mailing list: [basex-talk](https://mailman.uni-konstanz.de/mailman/listinfo/basex-talk)
+- Stack Overflow: [Questions tagged basex](https://stackoverflow.com/questions/tagged/basex)
 
 ### XQuery coverage in BaseX
 
@@ -24,6 +32,14 @@ BaseX has posted full notes on its [conformance with XQuery 3.1 and related stan
     - `fn:put()` writes documents to "secondary storage". See BaseX's documentation for [discussion](http://docs.basex.org/wiki/XQuery_Update#Built-in_Functions) of this function and a link to "Additional database functions exist for performing updates on document and database level."
 
 ## eXist
+
+### eXist links
+
+- Homepage: [https://exist-db.org](https://exist-db.org)
+- Documentation: [https://exist-db.org/exist/apps/doc](https://exist-db.org/exist/apps/doc)
+- Source code: [https://github.com/eXist-db/exist](https://github.com/eXist-db/exist)
+- Mailing list: [exist-open](https://lists.sourceforge.net/lists/listinfo/exist-open)
+- Stack Overflow: [Questions tagged exist-db](https://stackoverflow.com/questions/tagged/exist-db)
 
 ### XQuery coverage in eXist
 
@@ -64,6 +80,14 @@ eXist has posted full notes on its [conformance with XQuery 3.1 and related stan
 
 Saxon is oXygen's default, built-in XQuery engine. It can also be called via the command line.
 
+### Saxon links
+
+- Homepage: [https://www.saxonica.com](https://www.saxonica.com/)
+- Documentation: [https://www.saxonica.com/documentation/documentation.xml](https://www.saxonica.com/documentation/documentation.xml)
+- Source code: [https://www.saxonica.com/html/documentation/about/resources.html](https://www.saxonica.com/html/documentation/about/resources.html)
+- Mailing list: [saxon-help](https://sourceforge.net/projects/saxon/lists/saxon-help)
+- Stack Overflow: [Questions tagged saxon](https://stackoverflow.com/questions/tagged/saxon)
+
 ### XQuery coverage in Saxon
 
 Saxon has posted full notes on its [conformance with XQuery 3.1 and related standards](http://www.saxonica.com/html/documentation/conformance/xquery31.html).
@@ -91,3 +115,17 @@ Saxon has posted full notes on its [conformance with XQuery 3.1 and related stan
     - 09-11 thru 09-13 complains of "unexpected token name 'transform' beyond end of query
 - Chapter 12
     - The `fn:json-to-xml()` function used in 12-07 fails when the "linked tree model" is enabled; the error is "missing call on startContent()"; disabling this allows the function to work
+
+## oXygen XML Editor
+
+### oXygen links
+
+- Homepage: [https://www.oxygenxml.com](https://www.oxygenxml.com)
+- Documentation: [https://www.oxygenxml.com/doc/versions/22.0/ug-editor/index.html](https://www.oxygenxml.com/doc/versions/22.0/ug-editor/index.html)
+- Mailing list: [oxygen-user](https://www.oxygenxml.com/mailinglists.html)
+- Forum: [oXygen Forums](https://www.oxygenxml.com/forum/)
+
+### XQuery coverage in oXygen
+
+- By default, oXygen is configured to use Saxon as its XQuery engine. For information on Saxon, see above.
+- oXygen can also be [configured](https://www.oxygenxml.com/xml_editor/eXist_support.html) to use eXist as its XQuery engine. For information on eXist, see above.
