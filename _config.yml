@@ -22,8 +22,17 @@ title: XQuery for Humanists
 description: Companion website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://xquery.forhumanists.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: coding4humanist
-github_username: coding4humanists
+authors:
+  - Clifford B. Anderson
+  - Joseph C. Wicentowski
+twitter_usernames: 
+  - andersoncliffb
+  - joewiz
+  - coding4humanist
+github_usernames: 
+  - cliffordanderson
+  - joewiz
+  - coding4humanists
 google_analytics: UA-161528434-1
 
 # Build settings

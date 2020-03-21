@@ -1,0 +1,3 @@
+<ul class="social-media-list">
+  {%- for twitter_username in site.twitter_usernames -%}<li><a href="https://www.twitter.com/{{ twitter_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ twitter_username | escape }}</span></a></li>{%- endfor -%}
+</ul>
