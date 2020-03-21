@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Function Documentation
-permalink: /function-documentation/
+title: Functions
+permalink: /functions/
+category: top-level
 ---
 
 This document describes the built-in facilities for browsing function documentation offered by each of the implementations discussed in the book.

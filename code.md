@@ -2,6 +2,7 @@
 layout: page
 title: Code
 permalink: /code/
+category: top-level
 ---
 
 Download all of the code here:

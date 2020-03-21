@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+category: top-level
 ---
 
 ![Cover image for XQuery for Humanists](https://texas-am.imgix.net/covers/9781623498290.jpg?auto=format&h=300)
@@ -12,7 +13,7 @@ layout: home
 Welcome to the companion website for _XQuery for Humanists_, written by Clifford B. Anderson and Joseph C. Wicentowski and published by Texas A&M University Press in 2020 (available for purchase from [Amazon](https://www.amazon.com/dp/1623498295) and [Texas A&M University Press](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/)). This website offers supplementary material from the book:
 
 - A downloadable set of [the code](code/) listed in this book
-- Extensive information about the four [XQuery implementations](implementations/) discussed in the book, including each their built-in facilities for browsing [function documentation](function-documentation/).
+- Extensive information about the four [XQuery implementations](implementations/) discussed in the book, including each their built-in facilities for browsing [function documentation](functions/).
 - A list of [errata](errata/) discovered in the book after it went to press
 
 ## About the Book

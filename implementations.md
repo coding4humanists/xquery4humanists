@@ -1,7 +1,8 @@
 ---
 layout: page
-title: XQuery Implementations
+title: Implementations
 permalink: /implementations/
+category: top-level
 ---
 
 This document compares the implementations discussed in the book. It also contains implementation-specific issues about each chapter.
