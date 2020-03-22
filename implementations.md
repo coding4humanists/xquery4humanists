@@ -127,5 +127,5 @@ Saxon has posted full notes on its [conformance with XQuery 3.1 and related stan
 
 ### XQuery coverage in oXygen
 
-- By default, oXygen is configured to use Saxon as its XQuery engine. For information on Saxon, see above.
-- oXygen can also be [configured](https://www.oxygenxml.com/xml_editor/eXist_support.html) to use eXist as its XQuery engine. For information on eXist, see above.
+- By default, oXygen is configured to use Saxon as its XQuery engine. For information on Saxon, see [above](#saxon).
+- oXygen can also be [configured](https://www.oxygenxml.com/xml_editor/eXist_support.html) to use eXist as its XQuery engine. For information on eXist, see [above](#exist).
