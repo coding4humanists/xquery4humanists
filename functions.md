@@ -5,11 +5,13 @@ permalink: /functions/
 category: top-level
 ---
 
-This document describes the built-in facilities for browsing function documentation offered by each of the implementations discussed in the book.
+The built-in function library for XQuery can be browsed at [XPath and XQuery Functions and Operators 3.1](https://www.w3.org/TR/xpath-functions-31/). In addition, each of the XQuery implementations discussed in the book offers online and/or in-app function documentation. 
 
 ## BaseX
 
-All BaseX functions are documented on the BaseX [Module Library](http://docs.basex.org/wiki/Module_Library) page. The BaseX GUI does not expose function documentation. 
+All BaseX functions are documented on the BaseX [Module Library](http://docs.basex.org/wiki/Module_Library) page. 
+
+The BaseX GUI does not expose function documentation. 
 
 ## eXist
 
@@ -19,7 +21,7 @@ In addition, eXist offers function documentation in several development environm
 
 - In eXide, you can look up a function's documentation by placing the cursor in the function name and selecting Navigate > Function doc, or using the keyboard shortcut of F1. A pop-up window will appear with documentation about any matching functions.
 - In Atom, with the atom-existdb package installed, Atom monitors your keystrokes, and if it detects that you are typing an XQuery function, it will display a hovering window below the cursor containing the documentation for the function.
-- See oXygen below for directions on how to configure it to suggest eXist functions as you type them and display compact documentation about each function.
+- See [oXygen](#oxygen) below for directions on how to configure it to suggest eXist functions as you type them and display compact documentation about each function.
 
 ## oXygen
 
