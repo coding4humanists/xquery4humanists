@@ -325,7 +325,7 @@ Each code sample can be viewed online or downloaded in raw, plain text format vi
 | 298 | 246 | [`298-pp246.xq`](298-pp246/) [\[raw\]](298-pp246/298-pp246.xq) |
 | 299 | 246 | [`299-pp246.xq`](299-pp246/) [\[raw\]](299-pp246/299-pp246.xq) |
 | 300 | 247 | [`300-pp247.xq`](300-pp247/) [\[raw\]](300-pp247/300-pp247.xq) |
-| 301 | 247 | [`301-pp247.xq`](301-pp247/) [\[raw\]](301-pp247/301-pp247.xq) |
+| 301 | 247 | [`301-pp247.xq`](301-pp247/) [\[raw\]](301-pp247/301-pp247.xq); [`stopwords.txt`](301-pp247/stopwords-txt/) [\[raw\]](301-pp247/stopwords-txt/stopwords.txt) |
 | 302 | 248 | [`302-pp248.xq`](302-pp248/) [\[raw\]](302-pp248/302-pp248.xq) |
 | 303 | 248 | [`303-pp248.xq`](303-pp248/) [\[raw\]](303-pp248/303-pp248.xq) |
 | 304 | 248 | [`304-pp248.xq`](304-pp248/) [\[raw\]](304-pp248/304-pp248.xq) |
@@ -359,14 +359,14 @@ Each code sample can be viewed online or downloaded in raw, plain text format vi
 | 332 | 278 | [`332-pp278.xq`](332-pp278/) [\[raw\]](332-pp278/332-pp278.xq) |
 | 333 | 279 | [`333-pp279.xml`](333-pp279/) [\[raw\]](333-pp279/333-pp279.xml) |
 | 334 | 279 | [`334-pp279.xq`](334-pp279/) [\[raw\]](334-pp279/334-pp279.xq) |
-| 335 | 282 | [`335-pp282.xq`](335-pp282/) [\[raw\]](335-pp282/335-pp282.xq) |
+| 335 | 282 | [`335-pp282.xq`](335-pp282/) [\[raw\]](335-pp282/335-pp282.xq); [`books.csv`](335-pp282/books-csv/) [\[raw\]](335-pp282/books-csv/books.csv) |
 | 336 | 282 | [`336-pp282.xq`](336-pp282/) [\[raw\]](336-pp282/336-pp282.xq); [`books.csv`](336-pp282/books-csv/) [\[raw\]](336-pp282/books-csv/books.csv) |
 | 337 | 282 | [`337-pp282.xq`](337-pp282/) [\[raw\]](337-pp282/337-pp282.xq); [`books.csv`](337-pp282/books-csv/) [\[raw\]](337-pp282/books-csv/books.csv) |
 | 338 | 283 | [`338-pp283.xq`](338-pp283/) [\[raw\]](338-pp283/338-pp283.xq); [`books.csv`](338-pp283/books-csv/) [\[raw\]](338-pp283/books-csv/books.csv) |
 | 339 | 283 | [`339-pp283.xq`](339-pp283/) [\[raw\]](339-pp283/339-pp283.xq); [`books.csv`](339-pp283/books-csv/) [\[raw\]](339-pp283/books-csv/books.csv) |
 | 340 | 284-287 | [`340-pp284-287.xq`](340-pp284-287/) [\[raw\]](340-pp284-287/340-pp284-287.xq); [`books.csv`](340-pp284-287/books-csv/) [\[raw\]](340-pp284-287/books-csv/books.csv) |
 | 341 | 287 | [`341-pp287.xml`](341-pp287/) [\[raw\]](341-pp287/341-pp287.xml) |
-| 342 | 290 | [`342-pp290.xq`](342-pp290/) [\[raw\]](342-pp290/342-pp290.xq) |
+| 342 | 290 | [`342-pp290.xq`](342-pp290/) [\[raw\]](342-pp290/342-pp290.xq); [`books.xml`](342-pp290/books-xml/) [\[raw\]](342-pp290/books-xml/books.xml) |
 | 343 | 288-290 | [`343-pp288-290.xq`](343-pp288-290/) [\[raw\]](343-pp288-290/343-pp288-290.xq); [`books.xml`](343-pp288-290/books-xml/) [\[raw\]](343-pp288-290/books-xml/books.xml) |
 | 344 | 292 | [`344-pp292.xml`](344-pp292/) [\[raw\]](344-pp292/344-pp292.xml) |
 | 345 | 292 | [`345-pp292.xq`](345-pp292/) [\[raw\]](345-pp292/345-pp292.xq); [`books.xml`](345-pp292/books-xml/) [\[raw\]](345-pp292/books-xml/books.xml); [`books.xsl`](345-pp292/books-xsl/) [\[raw\]](345-pp292/books-xsl/books.xsl) |
