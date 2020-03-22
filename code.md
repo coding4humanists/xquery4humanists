@@ -11,7 +11,7 @@ All of the code samples in _XQuery for Humanists_ are offered here to facilitate
 
 Also, you can view each sample online and download them individually below. 
 
-In the book, many code samples were presented in partial form in the course of discussion. The corresponding versions of the code samples here have been expanded, as needed, to ensure they can all run as standalone queries. When a query cannot be run as a standalone query, it is shown with a "txt" file extension file rather than the "xq" file extension.
+In the book, many code samples were presented in partial form in the course of discussion. Here, the corresponding versions of the code samples here have been expanded, as needed, to ensure they can run as standalone queries. When a query cannot be run as a standalone query, it is shown with a "txt" file extension file rather than the "xq" file extension.
 
 ### Change log
  
