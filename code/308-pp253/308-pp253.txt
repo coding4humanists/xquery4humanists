@@ -1,0 +1,4 @@
+declare function local:generate-uri($resource as xs:integer?)
+    as xs:string {
+    "http://forhumanists.org/" || xs:string($resource)
+};

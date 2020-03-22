@@ -1,0 +1,15 @@
+typeswitch ($original)
+    case text() return
+        (: Don’t change the text :)
+    case element(tei:div) return
+        (: Create an HTML <div> element, and apply these rules to any child nodes :)
+    case element(tei:p) return
+        (: Create an HTML <p> element, and apply these rules to any child nodes :)
+    case element(tei:quote) return
+        (: Create an HTML <blockquote> element, and apply these rules to any child nodes :)
+    case element(tei:lg) return
+        (: Create an HTML <lg> element, and apply these rules to any child nodes :)
+    case element(tei:l) return
+        (: Create an HTML <l> element, and apply these rules to any child nodes :)
+    default return
+        (: Keep these as is too :)

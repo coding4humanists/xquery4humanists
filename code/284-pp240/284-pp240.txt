@@ -1,0 +1,5 @@
+$corpus contains text
+    ("librarian" ftor "libraries" ftor "library")
+    ftand
+    ("homelessness" ftor "homeless")
+    distance at most 2 paragraphs

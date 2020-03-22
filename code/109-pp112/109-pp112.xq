@@ -1,0 +1,1 @@
+("New York", "Paris", "Tokyo", "Buenos Aires")[position() = (1, 3)]

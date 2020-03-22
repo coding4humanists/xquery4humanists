@@ -1,0 +1,1 @@
+fn:subsequence(("New York", "Paris", "Tokyo", "BuenosAires"), 2, 2)

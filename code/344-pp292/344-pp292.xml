@@ -1,0 +1,17 @@
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+    <xsl:template match="/">
+        <table>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+            </tr>
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+    <xsl:template match="row">
+        <tr>
+            <td><xsl:value-of select="Title"/></td>
+            <td><xsl:value-of select="Author"/></td>
+        </tr>
+    </xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,3 @@
+<script>
+    <![CDATA[ evaluateCondition() && alert("Condition is true!") ]]>
+</script>

@@ -1,0 +1,1 @@
+fn:substring("I love XQuery", 3, 4)

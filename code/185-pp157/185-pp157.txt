@@ -1,0 +1,5 @@
+<ngram>I hope you</ngram>
+<ngram>hope you have</ngram>
+<ngram>you have a</ngram>
+<ngram>have a nice</ngram>
+<ngram>a nice day</ngram>

@@ -1,0 +1,6 @@
+(: This function returns a URL (as a string) to a resource;
+: resources are always made available as integers in the form:
+: http://forhumanists.org/1, etc. :)
+declare function local:generate-uri($resource as xs:integer?) as xs:string {
+    "http://forhumanists.org/" || xs:string($resource)
+};

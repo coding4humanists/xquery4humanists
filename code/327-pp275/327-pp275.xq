@@ -1,0 +1,1 @@
+fn:json-doc("https://json.xquery.ninja/")

@@ -1,0 +1,6 @@
+<hit score="0.79">
+    <title>The Secretary of State to the Consul at Taipei (Edgar)</title>
+</hit>
+<hit score="0.03">
+    <title>The Ambassador in China (Stuart) to the Secretary of State</title>
+</hit>

@@ -1,0 +1,3 @@
+<script>
+    evaluateCondition() && alert("Condition is true!")
+</script>

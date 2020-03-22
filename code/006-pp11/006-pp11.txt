@@ -1,0 +1,4 @@
+@prefix schema: <http://schema.org/> .
+<http://www.worldcat.org/oclc/887852010>
+schema:name
+"Karl Barth and the Making of Evangelical Theology"@en .

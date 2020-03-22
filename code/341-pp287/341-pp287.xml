@@ -1,0 +1,18 @@
+<csv>
+    <row>
+        <Author>J. Walls</Author>
+        <Title>The Glass Castle</Title>
+        <ISBN>074324754X</ISBN>
+        <Binding>Paperback</Binding>
+        <Year_Published>2006</Year_Published>
+    </row>
+    <!-- removed for excerpt -->
+    <row>
+        <Author>L. Bossidy, R. Charan, C. Burck</Author>
+        <Title>Execution</Title>
+        <ISBN>9780609610572</ISBN>
+        <Binding>Hardcover</Binding>
+        <Year_Published>2002</Year_Published>
+    </row>
+    <!-- removed for excerpt -->
+</csv>

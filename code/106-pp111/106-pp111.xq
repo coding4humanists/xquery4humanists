@@ -1,0 +1,1 @@
+fn:tail(("New York", "Paris", "Tokyo", "Buenos Aires"))

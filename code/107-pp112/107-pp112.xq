@@ -1,0 +1,1 @@
+fn:index-of(("New York", "Paris", "Tokyo", "BuenosAires"), "Tokyo")

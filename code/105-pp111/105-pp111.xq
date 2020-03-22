@@ -1,0 +1,1 @@
+fn:head(("New York", "Paris", "Tokyo", "Buenos Aires"))

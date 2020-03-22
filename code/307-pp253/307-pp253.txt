@@ -1,0 +1,3 @@
+declare function local:generate-uri($resource) {
+    "http://forhumanists.org/" || $resource
+};

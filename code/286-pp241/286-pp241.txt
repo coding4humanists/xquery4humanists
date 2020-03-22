@@ -1,0 +1,3 @@
+$text contains text 
+    ("Kohlbrugge" ftand "theologian" ftand ftnot "naturalist") 
+    same paragraph

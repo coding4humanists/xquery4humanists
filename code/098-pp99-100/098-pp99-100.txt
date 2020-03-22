@@ -1,0 +1,15 @@
+<list published="2016">
+    <book date="2016">New Companion to Digital Humanities</book>
+</list>
+<list published="2015">
+    <book date="2015">Digital Humanities</book>
+    <book date="2015">Interdisciplining Digital Humanities</book>
+</list>
+<list published="2014">
+    <book date="2014">Digital Critical Editions</book>
+</list>
+<list published="2013">
+    <book date="2013">Emergence of the Digital Humanities</book>
+    <book date="2013">Hacking the Academy</book>
+    <book date="2013">Macroanalysis</book>
+</list>

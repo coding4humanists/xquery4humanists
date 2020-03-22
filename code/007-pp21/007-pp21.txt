@@ -1,0 +1,2 @@
+brew cask install java exist-db oxygen-xml-editor
+brew install basex saxon

@@ -1,0 +1,3 @@
+declare function local:make-tei-title($title, $subtitle) {
+    (: ... :)
+};

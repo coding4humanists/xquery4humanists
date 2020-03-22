@@ -1,0 +1,1 @@
+'{ A1 : "First Example" }' => fn:parse-json( map {"liberal": true() } )

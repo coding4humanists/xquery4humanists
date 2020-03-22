@@ -1,0 +1,1 @@
+("China", "Russia", "Japan", "Mexico")[position() = (1, 3)]

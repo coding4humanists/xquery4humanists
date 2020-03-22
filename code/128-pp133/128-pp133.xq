@@ -1,0 +1,1 @@
+fn:concat("red", " ", "white", " ", "blue")

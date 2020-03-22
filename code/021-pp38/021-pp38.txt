@@ -1,0 +1,1 @@
+<red-doll><blue-doll></red-doll></blue-doll>
