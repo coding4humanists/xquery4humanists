@@ -10,9 +10,7 @@ category: top-level
 
 ## Welcome!
 
-Welcome to the companion website for _XQuery for Humanists_, written by Clifford B. Anderson and Joseph C. Wicentowski and published by Texas A&M University Press in 2020 (available for purchase from [Amazon](https://www.amazon.com/dp/1623498295) and [Texas A&M University Press](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/); see the latter to request a review or exam copy). 
-
-This website offers supplementary material for readers of the book and those interested in its contents:
+Welcome to the companion website for _XQuery for Humanists_, written by [Clifford B. Anderson](https://www.cliffordanderson.net/) and [Joseph C. Wicentowski](https://joewiz.org) and published by Texas A&M University Press in 2020. This website offers supplementary material for readers of the book and those interested in its contents:
 
 - An online and downloadable set of [the code](code/) listed in the book.
 - Extensive information about the four [XQuery implementations](implementations/) introduced in the book, including each their built-in facilities for browsing [function documentation](functions/).
@@ -21,14 +19,15 @@ This website offers supplementary material for readers of the book and those int
 
 Also:
 
-- To discuss the book, please [join our mailing list](https://groups.google.com/forum/#!forum/xqfh).
-- To report errors in the book or a problem with this website, please submit an issue or open a pull request on [the book's GitHub repository](https://github.com/coding4humanists/xquery4humanists).
+- To discuss the book with other readers, please [join the book's mailing list](https://groups.google.com/forum/#!forum/xqfh).
+- To report errors in the book or a problem with this website, please submit an issue or open a pull request on [the book's GitHub repository](https://github.com/coding4humanists/xquery4humanists/issues/new).
+- To purchase the book, visit [Amazon](https://www.amazon.com/dp/1623498295) or [Texas A&M University Press](https://www.tamupress.com/book/9781623498290/xquery-for-humanists/); see the latter to request a review or exam copy. 
 
 ## About the Book
 
 XQuery is the best language for querying, manipulating, and transforming XML and JSON documents. Because XML is in many ways the lingua franca of the digital humanities, learning XQuery empowers humanists to discover and analyze their data in new ways.
 
-Until now, though, XQuery has been difficult to learn because there was no textbook designed for non- or beginner programmers. _XQuery for Humanists_ fills this void with an approachable guidebook aimed directly at digital humanists.
+Until now, though, XQuery has been difficult to learn because there was no textbook designed for non-programmers or beginner programmers. _XQuery for Humanists_ fills this void with an approachable guidebook aimed directly at digital humanists.
 
 Clifford B. Anderson and Joseph C. Wicentowski introduce XQuery in terms accessible to humanities scholars and do not presuppose any prior background in programming. It provides an informed, opinionated overview and recommends the best implementations, libraries, and paradigms to empower those who need it most. Emphasizing practical applicability, the authors go beyond the XQuery language to include the basics of underlying standards like XPath, related standards like XQuery Full Text and XQuery Update, and explain the difference between XQuery and languages like Python and R. This book will afford readers the skills they need to build and analyze large-scale documentary corpora in XML. 
 
