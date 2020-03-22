@@ -7,6 +7,7 @@ permalink: /code/210-pp202/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 202. 
 Download this code sample in its [raw form](/code/210-pp202/210-pp202.xq).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/210-pp202/210-pp202.xq).
 
 ```xquery
 xquery version "3.1";

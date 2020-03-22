@@ -7,6 +7,7 @@ permalink: /code/083-pp92/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 92. 
 Download this code sample in its [raw form](/code/083-pp92/083-pp92.xq).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/083-pp92/083-pp92.xq).
 
 ```xquery
 xquery version "3.1";

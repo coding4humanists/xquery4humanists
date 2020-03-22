@@ -7,6 +7,7 @@ permalink: /code/183-pp154/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 154. 
 Download this code sample in its [raw form](/code/183-pp154/183-pp154.xq).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/183-pp154/183-pp154.xq).
 
 ```xquery
 let $zip-codes :=
