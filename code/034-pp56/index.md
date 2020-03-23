@@ -7,7 +7,7 @@ permalink: /code/034-pp56/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 56. 
 Download this code sample in its [raw form](/code/034-pp56/034-pp56.xml).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/034-pp56/034-pp56.xml).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/034-pp56/034-pp56.xml).
 
 ```xml
 <book>

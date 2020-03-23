@@ -7,7 +7,7 @@ permalink: /code/191-pp168/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 168. 
 Download this code sample in its [raw form](/code/191-pp168/191-pp168.txt).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/191-pp168/191-pp168.txt).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/191-pp168/191-pp168.txt).
 
 ```javascript
 var eggs = 0;

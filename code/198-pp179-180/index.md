@@ -7,7 +7,7 @@ permalink: /code/198-pp179-180/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 179-180. 
 Download this code sample in its [raw form](/code/198-pp179-180/198-pp179-180.xml).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/198-pp179-180/198-pp179-180.xml).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/198-pp179-180/198-pp179-180.xml).
 
 ```xml
 <div xmlns="http://www.tei-c.org/ns/1.0">

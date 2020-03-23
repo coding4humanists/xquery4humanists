@@ -7,7 +7,7 @@ permalink: /code/309-pp254/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 254. 
 Download this code sample in its [raw form](/code/309-pp254/309-pp254.txt).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/309-pp254/309-pp254.txt).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/309-pp254/309-pp254.txt).
 
 ```text
 (: This function returns a URL (as a string) to a resource;

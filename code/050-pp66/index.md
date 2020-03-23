@@ -7,7 +7,7 @@ permalink: /code/050-pp66/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 66. 
 Download this code sample in its [raw form](/code/050-pp66/050-pp66.xq).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/050-pp66/050-pp66.xq).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/050-pp66/050-pp66.xq).
 
 ```xquery
 xquery version "3.1";

@@ -7,7 +7,7 @@ permalink: /code/018-pp37/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 37. 
 Download this code sample in its [raw form](/code/018-pp37/018-pp37.xml).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/018-pp37/018-pp37.xml).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/018-pp37/018-pp37.xml).
 
 ```xml
 <person type="president" n="44">Barack Obama</person>

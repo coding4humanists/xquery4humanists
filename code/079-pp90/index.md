@@ -7,7 +7,7 @@ permalink: /code/079-pp90/
 This code sample is adapted from Clifford B. Anderson and Joseph C. Wicentowski, 
 [_XQuery for Humanists_](/) (College Station: Texas A&M University Press, 2020), 90. 
 Download this code sample in its [raw form](/code/079-pp90/079-pp90.xml).
-View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/master/code/079-pp90/079-pp90.xml).
+View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/079-pp90/079-pp90.xml).
 
 ```xml
 <book>
