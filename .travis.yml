@@ -16,3 +16,4 @@ deploy:
   keep-history: false
   on:
     branch: release
+  fqdn: xquery.forhumanists.org
