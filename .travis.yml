@@ -1,0 +1,18 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+  - release
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build
+deploy:
+  provider: pages
+  local-dir: _site
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  keep-history: false
+  on:
+    branch: release
