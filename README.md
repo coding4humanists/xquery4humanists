@@ -26,3 +26,14 @@ To aid in the creation/editing of this site and its mentions in the text, we lis
     - Consult the companion website to see what unit testing frameworks are compatible with your XQuery processor.
 - Chapter 13
      - Consult our companion website's chart indicating the conformity of various XQuery processors with XQuery 3.1 and related standards. How does your XQuery processor fare in this measure?
+
+To preview the site locally, install [Jekyll](https://jekyllrb.com/) (see https://jekyllrb.com/docs/installation/):
+
+```bash
+gem install bundler jekyll
+git clone https://github.com/coding4humanists/xquery4humanists
+cd xquery4humanists
+bundle exec jekyll serve
+```
+
+Then browse to `http://localhost:4000/`.
