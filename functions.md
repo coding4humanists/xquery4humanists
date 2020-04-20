@@ -5,7 +5,7 @@ permalink: /functions/
 category: top-level
 ---
 
-The built-in function library for XQuery can be browsed at [XPath and XQuery Functions and Operators 3.1](https://www.w3.org/TR/xpath-functions-31/). In addition, each of the XQuery implementations discussed in the book offers online and/or in-app function documentation. 
+The built-in function library for XQuery can be browsed at [XPath and XQuery Functions and Operators 3.1](https://www.w3.org/TR/xpath-functions-31/). In addition, each of the XQuery implementations discussed in the book offers online and/or in-app function documentation, and there are other convenient sources too.
 
 ## BaseX
 
@@ -30,3 +30,7 @@ When editing XQuery in oXygen, with Saxon or eXist selected as the XQuery valida
 ## Saxon
 
 Saxon's [Function Library](https://www.saxonica.com/html/documentation/functions/) page lists documentation about standard and extension functions.
+
+## Other sources
+
+For a convenient way to search functions offline, Norm Tovey-Walsh has adapted the XPath and XQuery Functions and Operators 3.1 specification to the ["docset"](https://dash.nwalsh.com/) format used by [Dash](https://kapeli.com/dash) on macOS and many similar utilities for [other operating systems](https://blog.kapeli.com/dash-for-ios-android-windows-or-linux)). 
