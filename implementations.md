@@ -61,7 +61,7 @@ eXist has posted full notes on its [conformance with XQuery 3.1 and related stan
     - `fn:trace()` (eXist supports the version with two parameters but not just one)
     - `fn:transform()` (use eXist's [`transform:transform()`](https://exist-db.org/exist/apps/fundocs/view.html?uri=http://exist-db.org/xquery/transform#transform.3) function)
     - `fn:uri-collection()`
-    - `fn:xml-to-json()` (this functions are available in an [eXist-compatible implementation](https://gist.github.com/joewiz/d986da715facaad633db))
+    - `fn:xml-to-json()` (this function is available in an [eXist-compatible implementation](https://gist.github.com/joewiz/d986da715facaad633db))
     - `map:find()` (use this [eXist-compatible implementation](https://gist.github.com/joewiz/906c7d3248c09a07407d91b73dfd7fe0))
 - eXist has not implemented the following related specifications:
     - XQuery Update Facility 3.0 (introduced in Chapter 9). Instead, it provides [an eXist-specific update facility](https://exist-db.org/exist/apps/doc/update_ext.xml).
