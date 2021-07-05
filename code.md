@@ -7,7 +7,7 @@ category: top-level
 
 All of the code samples in _XQuery for Humanists_ are offered here to facilitate your learning of the material. You can download a zip file containing all the code from the book from this link:
 
-- [xquery-for-humanists-code-samples-1.0.0.zip](xquery-for-humanists-code-samples-1.0.0.zip)
+- [xquery-for-humanists-code-samples-1.0.1.zip](xquery-for-humanists-code-samples-1.0.1.zip)
 
 Also, you can view each sample online and download them individually below. 
 
@@ -18,6 +18,7 @@ In the book, many code samples were presented in partial form in the course of d
 | Date | Version | Change |
 |-|-|-|
 | March 22, 2020 | 1.0.0 | Initial release |
+| July 5, 2021 | 1.0.1 | Fix typo in [`033-pp54.xml`](033-pp54/) |
 
 ### Individual code samples
 

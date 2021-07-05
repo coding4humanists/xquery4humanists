@@ -10,7 +10,7 @@ Download this code sample in its [raw form](/code/033-pp54/033-pp54.xml).
 View the source on [GitHub](https://github.com/coding4humanists/xquery4humanists/blob/release/code/033-pp54/033-pp54.xml).
 
 ```xml
-<opener xmlns="http://www-tei-c.org/ns/1.0">
+<opener xmlns="http://www.tei-c.org/ns/1.0">
 <salute>Dear</salute>
 <roleName type="honorific">Mr.</roleName>
 <persName reg="Obama, Barack"
