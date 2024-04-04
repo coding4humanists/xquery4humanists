@@ -2,12 +2,12 @@
 
 This repository contains the source files for the companion website for the XQuery for Humanists book.
 
-In the book, the URL given for the companion website is xquery.forhumanists.org. The URL is now [coding4humanists.github.io/xquery4humanists](https://coding4humanists.github.io/xquery4humanists/). 
+In the book, the URL given for the companion website is `xquery.forhumanists.org`. The URL is now [coding4humanists.github.io/xquery4humanists](https://coding4humanists.github.io/xquery4humanists/). 
 
 To aid in the creation/editing of this site and its mentions in the text, we list below all the phrases in the book that mention the companion site.
 
 - Introduction
-    - Companion website at xquery.forhumanists.org
+    - Companion website at `xquery.forhumanists.org`
     - Full set of downloadable examples
     - List of errata found in the book after it goes to press
     - Extensive information about the four software packages. We put that information on the website rather than in the book since these software packages will continue to evolve and compete for users like us.
