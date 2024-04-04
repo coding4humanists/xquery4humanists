@@ -14,7 +14,7 @@ Welcome to the companion website for _XQuery for Humanists_, written by [Cliffor
 
 - An online and downloadable set of [the code](code/) listed in the book.
 - Extensive information about the four [XQuery implementations](implementations/) introduced in the book, including each their built-in facilities for browsing [function documentation](functions/).
-- A list of [errata](errata/) discovered in the book after it went to press.
+- A list of [errata](errata/) discovered after the book went to press.
 - The full [table of contents](#table-of-contents).
 
 Also:
