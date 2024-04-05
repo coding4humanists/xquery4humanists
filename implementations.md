@@ -43,26 +43,11 @@ BaseX has posted full notes on its [conformance with XQuery 3.1 and related stan
 
 ### XQuery coverage in eXist
 
-eXist has posted full notes on its [conformance with XQuery 3.1 and related standards](https://exist-db.org/exist/apps/doc/xquery#current-status-of-xquery-support). The following list is current as of eXist v5.2.0.
+eXist has posted full notes on its [conformance with XQuery 3.1 and related standards](https://exist-db.org/exist/apps/doc/xquery#current-status-of-xquery-support). The following list is current as of eXist v6.2.0.
 
-- eXist has implemented all of XQuery 3.1, but has not yet implemented:
+- eXist has implemented all of XQuery 3.1, except:
     - Count clause (introduced in Chapter 7; pre-sorting results and using the `at` clause can generally be substituted)
     - Windowing (introduced in Chapter 7)
-- eXist supports all of XQuery 3.1 Functions and Operators, except for the following (note that all functions covered in the book have alternatives listed, and most of the others have alternate methods of achieving the same aim):
-    - `array:sort()` (as an alternative, use a FLWOR expression with the `order by` clause)
-    - `fn:collation-key()`
-    - `fn:default-language()`
-    - `fn:element-with-id()`
-    - `fn:format-integer()` (the `fn:format-number()` function can generally be substituted)
-    - `fn:nilled()`
-    - `fn:path()` (use eXist's [`util:node-xpath()`](https://exist-db.org/exist/apps/fundocs/view.html?uri=http://exist-db.org/xquery/util#node-xpath.1) function)
-    - `fn:round()` (eXist supports the version that rounds to the nearest whole number; the version that takes a `$precision` parameter is not present, but, for example, a precision of 2 can be achieved by multiplying the number by 100 before rounding it, then dividing the result by 100). 
-    - `fn:nilled()`
-    - `fn:trace()` (eXist supports the version with two parameters but not just one)
-    - `fn:transform()` (use eXist's [`transform:transform()`](https://exist-db.org/exist/apps/fundocs/view.html?uri=http://exist-db.org/xquery/transform#transform.3) function)
-    - `fn:uri-collection()`
-    - `fn:xml-to-json()` (this function is available in an [eXist-compatible implementation](https://gist.github.com/joewiz/d986da715facaad633db))
-    - `map:find()` (use this [eXist-compatible implementation](https://gist.github.com/joewiz/906c7d3248c09a07407d91b73dfd7fe0))
 - eXist has not implemented the following related specifications:
     - XQuery Update Facility 3.0 (introduced in Chapter 9). Instead, it provides [an eXist-specific update facility](https://exist-db.org/exist/apps/doc/update_ext.xml).
     - XPath and XQuery Full Text 3.0 (introduced in Chapter 10). Instead, it provides [a full text search module](https://exist-db.org/exist/apps/doc/lucene.xml) based on Apache Lucene.
